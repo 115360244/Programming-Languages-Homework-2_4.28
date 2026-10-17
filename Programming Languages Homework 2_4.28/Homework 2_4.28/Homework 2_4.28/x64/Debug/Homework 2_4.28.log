@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(537,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  maincpp.cpp
+  Homework 2_4.28.vcxproj -> C:\c_code\Programming Languages Homework 2_4.28\temp\debug\Homework 2_4.28.exe
